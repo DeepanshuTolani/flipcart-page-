@@ -3,7 +3,7 @@ Project Overview
 A premium redesign of Flipkart with a luxury UI/UX, featuring elegant animations, VIP membership perks, and an exclusive shopping experience.
 
 🚀 Live Demo:
-Add your demo link here
+
 
 ✨ Features
 
